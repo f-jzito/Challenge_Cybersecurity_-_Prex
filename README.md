@@ -176,9 +176,6 @@ timestamp:
 La diferencia de registros.
 
 
-Este README mejorado proporciona una descripción más clara y concisa del proyecto, incluyendo las funcionalidades, los requerimientos, la instalación, la ejecución y ejemplos de uso. También se han añadido secciones para las capturas de pantalla y las notas adicionales.
-
-
 
 
 
