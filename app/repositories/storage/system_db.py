@@ -14,10 +14,8 @@ class AgentModel:
             self.cursor.execute("""
                 INSERT INTO server_info (
                     server_ip, timestamp, system_os_name, system_os_version, 
-                    system_processes, system_users, processor_name,processor_cpu_cores_per_package, 
-                    processor_cpu_core_count, processor_cpu_logical_per_package, 
-                    processor_cpu_thread_count, processor_cpu_brand_string
-                ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                    system_processes, system_users, processor_name,all_processor
+                ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
             """, (
                 data["server_ip"],
                 data["timestamp"],
@@ -26,11 +24,7 @@ class AgentModel:
                 json.dumps(data["system"]["processes"]),
                 json.dumps(data["system"]["users"]),
                 data["processor"]["name"],
-                int(data["processor"]["machdep.cpu.cores_per_package"]),
-                int(data["processor"]["machdep.cpu.core_count"]),
-                int(data["processor"]["machdep.cpu.logical_per_package"]),
-                int(data["processor"]["machdep.cpu.thread_count"]),
-                data["processor"]["machdep.cpu.brand_string"]
+                json.dumps(data["processor"])
             ))
             self.conn.commit()
             log.info(f"Data inserted successfully")
