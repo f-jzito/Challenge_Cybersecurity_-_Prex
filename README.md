@@ -42,7 +42,7 @@ parámetro.
 * Se implemento una db PostgreSQL en vez de un json o csv.
 * Implementación de controllers, service, storage y adapters usando buenas prácticas
 * Implementación de buenas prácticas de desarrollo: manejo de errores, dataclasses, logs, etc.
-* Utiliza Bearer Token en los endpoint el token esta en el .env , menos en el del healtcheck.
+* Implementacion de Bearer Token en los endpoint el token esta en el .env , menos en el del healtcheck.
 * La aplicación está configurada para recopilar información del sistema cada 24 horas utilizando la libreria BackgroundScheduler.
 * Podes modificar la frecuencia de recolección en el código.
 
