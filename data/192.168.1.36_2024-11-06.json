@@ -1,0 +1,3519 @@
+{
+    "server_ip": "192.168.1.36",
+    "system": {
+        "os_name": "Darwin",
+        "os_version": "23.1.0",
+        "processes": [
+            {
+                "pid": 1,
+                "name": "/sbin/launchd"
+            },
+            {
+                "pid": 97,
+                "name": "/usr/libexec/logd"
+            },
+            {
+                "pid": 99,
+                "name": "/usr/libexec/UserEventAgent"
+            },
+            {
+                "pid": 101,
+                "name": "/System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld"
+            },
+            {
+                "pid": 102,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd"
+            },
+            {
+                "pid": 103,
+                "name": "/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted"
+            },
+            {
+                "pid": 106,
+                "name": "/usr/sbin/systemstats"
+            },
+            {
+                "pid": 108,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 109,
+                "name": "/usr/libexec/configd"
+            },
+            {
+                "pid": 111,
+                "name": "/System/Library/CoreServices/powerd.bundle/powerd"
+            },
+            {
+                "pid": 112,
+                "name": "/usr/libexec/IOMFB_bics_daemon"
+            },
+            {
+                "pid": 117,
+                "name": "/usr/libexec/remoted"
+            },
+            {
+                "pid": 122,
+                "name": "/usr/libexec/watchdogd"
+            },
+            {
+                "pid": 125,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 126,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds"
+            },
+            {
+                "pid": 128,
+                "name": "/usr/libexec/kernelmanagerd"
+            },
+            {
+                "pid": 129,
+                "name": "/usr/libexec/diskarbitrationd"
+            },
+            {
+                "pid": 133,
+                "name": "/usr/sbin/syslogd"
+            },
+            {
+                "pid": 136,
+                "name": "/usr/libexec/thermalmonitord"
+            },
+            {
+                "pid": 137,
+                "name": "/usr/libexec/opendirectoryd"
+            },
+            {
+                "pid": 138,
+                "name": "/System/Library/PrivateFrameworks/ApplePushService.framework/apsd"
+            },
+            {
+                "pid": 139,
+                "name": "/System/Library/CoreServices/launchservicesd"
+            },
+            {
+                "pid": 140,
+                "name": "/usr/libexec/timed"
+            },
+            {
+                "pid": 141,
+                "name": "/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd"
+            },
+            {
+                "pid": 142,
+                "name": "/usr/sbin/securityd"
+            },
+            {
+                "pid": 144,
+                "name": "/usr/libexec/locationd"
+            },
+            {
+                "pid": 146,
+                "name": "autofsd"
+            },
+            {
+                "pid": 147,
+                "name": "/usr/libexec/dasd"
+            },
+            {
+                "pid": 149,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 153,
+                "name": "/System/Library/CoreServices/logind"
+            },
+            {
+                "pid": 154,
+                "name": "/System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond"
+            },
+            {
+                "pid": 155,
+                "name": "/usr/sbin/KernelEventAgent"
+            },
+            {
+                "pid": 159,
+                "name": "/usr/sbin/notifyd"
+            },
+            {
+                "pid": 161,
+                "name": "/usr/libexec/corebrightnessd"
+            },
+            {
+                "pid": 162,
+                "name": "/usr/libexec/AirPlayXPCHelper"
+            },
+            {
+                "pid": 163,
+                "name": "/System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice"
+            },
+            {
+                "pid": 164,
+                "name": "/System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer"
+            },
+            {
+                "pid": 165,
+                "name": "/usr/sbin/cfprefsd"
+            },
+            {
+                "pid": 166,
+                "name": "/System/Library/PrivateFrameworks/TCC.framework/Support/tccd"
+            },
+            {
+                "pid": 170,
+                "name": "/System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow"
+            },
+            {
+                "pid": 174,
+                "name": "/System/Library/CoreServices/coreservicesd"
+            },
+            {
+                "pid": 175,
+                "name": "/System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored"
+            },
+            {
+                "pid": 177,
+                "name": "/usr/libexec/runningboardd"
+            },
+            {
+                "pid": 180,
+                "name": "/usr/libexec/lsd"
+            },
+            {
+                "pid": 182,
+                "name": "/System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd"
+            },
+            {
+                "pid": 192,
+                "name": "/usr/libexec/nsurlsessiond"
+            },
+            {
+                "pid": 193,
+                "name": "/usr/libexec/apfsd"
+            },
+            {
+                "pid": 195,
+                "name": "/usr/libexec/airportd"
+            },
+            {
+                "pid": 208,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 214,
+                "name": "/usr/libexec/symptomsd"
+            },
+            {
+                "pid": 224,
+                "name": "/System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd"
+            },
+            {
+                "pid": 235,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 242,
+                "name": "/System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd"
+            },
+            {
+                "pid": 260,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 262,
+                "name": "/usr/libexec/nesessionmanager"
+            },
+            {
+                "pid": 265,
+                "name": "/usr/libexec/storagekitd"
+            },
+            {
+                "pid": 274,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 275,
+                "name": "/usr/sbin/mDNSResponder"
+            },
+            {
+                "pid": 280,
+                "name": "/usr/libexec/audioclocksyncd"
+            },
+            {
+                "pid": 284,
+                "name": "/usr/sbin/mDNSResponderHelper"
+            },
+            {
+                "pid": 288,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 290,
+                "name": "/usr/sbin/appleh13camerad"
+            },
+            {
+                "pid": 291,
+                "name": "/System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant"
+            },
+            {
+                "pid": 299,
+                "name": "/System/Library/CoreServices/appleeventsd"
+            },
+            {
+                "pid": 301,
+                "name": "/usr/libexec/syspolicyd"
+            },
+            {
+                "pid": 303,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 305,
+                "name": "/usr/libexec/searchpartyd"
+            },
+            {
+                "pid": 307,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 312,
+                "name": "/Applications/Cloudflare"
+            },
+            {
+                "pid": 318,
+                "name": "/System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial"
+            },
+            {
+                "pid": 321,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores"
+            },
+            {
+                "pid": 322,
+                "name": "/System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers"
+            },
+            {
+                "pid": 345,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 358,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 378,
+                "name": "/usr/libexec/wifianalyticsd"
+            },
+            {
+                "pid": 381,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 382,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 397,
+                "name": "/usr/sbin/systemstats"
+            },
+            {
+                "pid": 400,
+                "name": "/usr/libexec/gamepolicyd"
+            },
+            {
+                "pid": 411,
+                "name": "/Library/Application"
+            },
+            {
+                "pid": 417,
+                "name": "/System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd"
+            },
+            {
+                "pid": 418,
+                "name": "/System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp"
+            },
+            {
+                "pid": 428,
+                "name": "/System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd"
+            },
+            {
+                "pid": 437,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 446,
+                "name": "/usr/sbin/cfprefsd"
+            },
+            {
+                "pid": 451,
+                "name": "/usr/libexec/lsd"
+            },
+            {
+                "pid": 490,
+                "name": "/usr/libexec/securityd_service"
+            },
+            {
+                "pid": 502,
+                "name": "/usr/libexec/UserEventAgent"
+            },
+            {
+                "pid": 507,
+                "name": "/usr/sbin/universalaccessd"
+            },
+            {
+                "pid": 511,
+                "name": "/usr/libexec/pboard"
+            },
+            {
+                "pid": 513,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 514,
+                "name": "/usr/sbin/usernoted"
+            },
+            {
+                "pid": 516,
+                "name": "/usr/libexec/rapportd"
+            },
+            {
+                "pid": 519,
+                "name": "/usr/libexec/nsurlsessiond"
+            },
+            {
+                "pid": 522,
+                "name": "/System/Library/CoreServices/lockoutagent"
+            },
+            {
+                "pid": 525,
+                "name": "/System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager"
+            },
+            {
+                "pid": 528,
+                "name": "/System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd"
+            },
+            {
+                "pid": 533,
+                "name": "/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"
+            },
+            {
+                "pid": 537,
+                "name": "/System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter"
+            },
+            {
+                "pid": 538,
+                "name": "/System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent"
+            },
+            {
+                "pid": 540,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 542,
+                "name": "/System/Library/CoreServices/sharedfilelistd"
+            },
+            {
+                "pid": 546,
+                "name": "/usr/libexec/sharingd"
+            },
+            {
+                "pid": 548,
+                "name": "/System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled"
+            },
+            {
+                "pid": 556,
+                "name": "/System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent"
+            },
+            {
+                "pid": 557,
+                "name": "/System/Library/CoreServices/Dock.app/Contents/MacOS/Dock"
+            },
+            {
+                "pid": 558,
+                "name": "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd"
+            },
+            {
+                "pid": 559,
+                "name": "/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"
+            },
+            {
+                "pid": 563,
+                "name": "/System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer"
+            },
+            {
+                "pid": 564,
+                "name": "/System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent"
+            },
+            {
+                "pid": 566,
+                "name": "/System/Library/CoreServices/Finder.app/Contents/MacOS/Finder"
+            },
+            {
+                "pid": 567,
+                "name": "/usr/libexec/ContinuityCaptureAgent"
+            },
+            {
+                "pid": 571,
+                "name": "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker"
+            },
+            {
+                "pid": 572,
+                "name": "/System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent"
+            },
+            {
+                "pid": 573,
+                "name": "/usr/sbin/filecoordinationd"
+            },
+            {
+                "pid": 575,
+                "name": "/System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary"
+            },
+            {
+                "pid": 580,
+                "name": "/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird"
+            },
+            {
+                "pid": 581,
+                "name": "automountd"
+            },
+            {
+                "pid": 583,
+                "name": "/System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent"
+            },
+            {
+                "pid": 585,
+                "name": "/System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent"
+            },
+            {
+                "pid": 589,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd"
+            },
+            {
+                "pid": 605,
+                "name": "/usr/libexec/nearbyd"
+            },
+            {
+                "pid": 609,
+                "name": "/usr/libexec/rosetta/oahd"
+            },
+            {
+                "pid": 613,
+                "name": "/System/Library/ExtensionKit/Extensions/WallpaperVideoExtension.appex/Contents/MacOS/WallpaperVideoExtension"
+            },
+            {
+                "pid": 619,
+                "name": "/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent"
+            },
+            {
+                "pid": 622,
+                "name": "/System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd"
+            },
+            {
+                "pid": 625,
+                "name": "/System/Library/Input"
+            },
+            {
+                "pid": 629,
+                "name": "/usr/libexec/avconferenced"
+            },
+            {
+                "pid": 636,
+                "name": "/System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra"
+            },
+            {
+                "pid": 637,
+                "name": "/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce"
+            },
+            {
+                "pid": 654,
+                "name": "/System/Library/CoreServices/SubmitDiagInfo"
+            },
+            {
+                "pid": 660,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 663,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 665,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 673,
+                "name": "/System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd"
+            },
+            {
+                "pid": 676,
+                "name": "/Library/Application"
+            },
+            {
+                "pid": 678,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 687,
+                "name": "/System/Library/Image"
+            },
+            {
+                "pid": 693,
+                "name": "/System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent"
+            },
+            {
+                "pid": 695,
+                "name": "/System/Library/CoreServices/diagnostics_agent"
+            },
+            {
+                "pid": 697,
+                "name": "/System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent"
+            },
+            {
+                "pid": 707,
+                "name": "/System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp"
+            },
+            {
+                "pid": 709,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 710,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 717,
+                "name": "/Applications/Cloudflare"
+            },
+            {
+                "pid": 737,
+                "name": "/Library/Application"
+            },
+            {
+                "pid": 752,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 754,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport"
+            },
+            {
+                "pid": 755,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 764,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport"
+            },
+            {
+                "pid": 772,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 807,
+                "name": "/System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService"
+            },
+            {
+                "pid": 808,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 842,
+                "name": "/System/Library/CoreServices/CrashReporterSupportHelper"
+            },
+            {
+                "pid": 848,
+                "name": "/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed"
+            },
+            {
+                "pid": 849,
+                "name": "/usr/libexec/triald"
+            },
+            {
+                "pid": 852,
+                "name": "/usr/libexec/usermanagerd"
+            },
+            {
+                "pid": 853,
+                "name": "/usr/libexec/pkd"
+            },
+            {
+                "pid": 855,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 858,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 859,
+                "name": "/System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd"
+            },
+            {
+                "pid": 860,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 867,
+                "name": "/System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent"
+            },
+            {
+                "pid": 877,
+                "name": "/usr/libexec/intelligentroutingd"
+            },
+            {
+                "pid": 881,
+                "name": "/System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod"
+            },
+            {
+                "pid": 882,
+                "name": "/System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent"
+            },
+            {
+                "pid": 890,
+                "name": "/usr/sbin/WirelessRadioManagerd"
+            },
+            {
+                "pid": 896,
+                "name": "/usr/libexec/ospredictiond"
+            },
+            {
+                "pid": 898,
+                "name": "/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter"
+            },
+            {
+                "pid": 900,
+                "name": "/usr/libexec/nehelper"
+            },
+            {
+                "pid": 901,
+                "name": "/System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd"
+            },
+            {
+                "pid": 904,
+                "name": "/System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd"
+            },
+            {
+                "pid": 905,
+                "name": "/System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService"
+            },
+            {
+                "pid": 906,
+                "name": "/System/Library/Frameworks/Contacts.framework/Support/contactsd"
+            },
+            {
+                "pid": 907,
+                "name": "/usr/libexec/dmd"
+            },
+            {
+                "pid": 908,
+                "name": "/System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent"
+            },
+            {
+                "pid": 909,
+                "name": "/usr/libexec/audiomxd"
+            },
+            {
+                "pid": 910,
+                "name": "/System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd"
+            },
+            {
+                "pid": 913,
+                "name": "/usr/libexec/secinitd"
+            },
+            {
+                "pid": 914,
+                "name": "/System/Library/CoreServices/ScopedBookmarkAgent"
+            },
+            {
+                "pid": 924,
+                "name": "/usr/libexec/coreduetd"
+            },
+            {
+                "pid": 927,
+                "name": "/usr/libexec/online-auth-agent"
+            },
+            {
+                "pid": 928,
+                "name": "/usr/libexec/knowledge-agent"
+            },
+            {
+                "pid": 929,
+                "name": "/System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd"
+            },
+            {
+                "pid": 930,
+                "name": "/usr/libexec/sandboxd"
+            },
+            {
+                "pid": 933,
+                "name": "/usr/libexec/mobileassetd"
+            },
+            {
+                "pid": 936,
+                "name": "/System/Library/CoreServices/Software"
+            },
+            {
+                "pid": 940,
+                "name": "/System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem"
+            },
+            {
+                "pid": 956,
+                "name": "/System/Library/CoreServices/Software"
+            },
+            {
+                "pid": 970,
+                "name": "/usr/libexec/wifip2pd"
+            },
+            {
+                "pid": 971,
+                "name": "/usr/libexec/replayd"
+            },
+            {
+                "pid": 972,
+                "name": "/System/Library/CoreServices/Keychain"
+            },
+            {
+                "pid": 1012,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 1013,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 1032,
+                "name": "/System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd"
+            },
+            {
+                "pid": 1033,
+                "name": "/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent"
+            },
+            {
+                "pid": 1034,
+                "name": "/usr/sbin/spindump"
+            },
+            {
+                "pid": 1035,
+                "name": "/usr/libexec/spindump_agent"
+            },
+            {
+                "pid": 1036,
+                "name": "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice"
+            },
+            {
+                "pid": 1037,
+                "name": "/usr/libexec/proactived"
+            },
+            {
+                "pid": 1038,
+                "name": "/System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService"
+            },
+            {
+                "pid": 1039,
+                "name": "/System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd"
+            },
+            {
+                "pid": 1041,
+                "name": "/usr/libexec/sysmond"
+            },
+            {
+                "pid": 1047,
+                "name": "/usr/libexec/powerdatad"
+            },
+            {
+                "pid": 1119,
+                "name": "/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd"
+            },
+            {
+                "pid": 1120,
+                "name": "/System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd"
+            },
+            {
+                "pid": 1121,
+                "name": "/System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent"
+            },
+            {
+                "pid": 1132,
+                "name": "/System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd"
+            },
+            {
+                "pid": 1134,
+                "name": "/System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService"
+            },
+            {
+                "pid": 1135,
+                "name": "/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService"
+            },
+            {
+                "pid": 1136,
+                "name": "/usr/libexec/swcd"
+            },
+            {
+                "pid": 1137,
+                "name": "/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService"
+            },
+            {
+                "pid": 1138,
+                "name": "/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService"
+            },
+            {
+                "pid": 1139,
+                "name": "/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService"
+            },
+            {
+                "pid": 1140,
+                "name": "/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService"
+            },
+            {
+                "pid": 1141,
+                "name": "/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService"
+            },
+            {
+                "pid": 1142,
+                "name": "/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService"
+            },
+            {
+                "pid": 1143,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad"
+            },
+            {
+                "pid": 1144,
+                "name": "/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService"
+            },
+            {
+                "pid": 1146,
+                "name": "/usr/libexec/securityd_system"
+            },
+            {
+                "pid": 1161,
+                "name": "/System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd"
+            },
+            {
+                "pid": 1162,
+                "name": "/System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice"
+            },
+            {
+                "pid": 1163,
+                "name": "/System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension"
+            },
+            {
+                "pid": 1167,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 1173,
+                "name": "/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd"
+            },
+            {
+                "pid": 1186,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1191,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1197,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1198,
+                "name": "/System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd"
+            },
+            {
+                "pid": 1199,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1200,
+                "name": "/System/Cryptexes/App/usr/libexec/PasswordBreachAgent"
+            },
+            {
+                "pid": 1202,
+                "name": "/usr/libexec/seserviced"
+            },
+            {
+                "pid": 1203,
+                "name": "/System/Library/CoreServices/Applications/Feedback"
+            },
+            {
+                "pid": 1205,
+                "name": "/System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app/Contents/MacOS/AXVisualSupportAgent"
+            },
+            {
+                "pid": 1208,
+                "name": "/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod"
+            },
+            {
+                "pid": 1209,
+                "name": "/usr/libexec/secinitd"
+            },
+            {
+                "pid": 1210,
+                "name": "/usr/sbin/cfprefsd"
+            },
+            {
+                "pid": 1211,
+                "name": "/usr/libexec/trustd"
+            },
+            {
+                "pid": 1212,
+                "name": "/usr/libexec/trustdFileHelper"
+            },
+            {
+                "pid": 1216,
+                "name": "/usr/libexec/containermanagerd"
+            },
+            {
+                "pid": 1217,
+                "name": "/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod"
+            },
+            {
+                "pid": 1218,
+                "name": "/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod"
+            },
+            {
+                "pid": 1219,
+                "name": "/usr/libexec/secinitd"
+            },
+            {
+                "pid": 1220,
+                "name": "/usr/libexec/secinitd"
+            },
+            {
+                "pid": 1221,
+                "name": "/usr/sbin/cfprefsd"
+            },
+            {
+                "pid": 1222,
+                "name": "/usr/libexec/containermanagerd_system"
+            },
+            {
+                "pid": 1223,
+                "name": "/usr/libexec/trustd"
+            },
+            {
+                "pid": 1225,
+                "name": "/usr/libexec/containermanagerd"
+            },
+            {
+                "pid": 1227,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1228,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 1229,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 1243,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1244,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1247,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1248,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1249,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1250,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1251,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1253,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1255,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1256,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1257,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1258,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1259,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1260,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1261,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1262,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared"
+            },
+            {
+                "pid": 1265,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 1446,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 1593,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 1756,
+                "name": "/System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher"
+            },
+            {
+                "pid": 1767,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 1780,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 1790,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 1938,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 2363,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 2821,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 2906,
+                "name": "/System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent"
+            },
+            {
+                "pid": 2943,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 3032,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 3107,
+                "name": "/System/Library/PrivateFrameworks/MobileDevice.framework/Resources/MobileDeviceUpdater.app/Contents/MacOS/MobileDeviceUpdater"
+            },
+            {
+                "pid": 3108,
+                "name": "/usr/libexec/USBAgent"
+            },
+            {
+                "pid": 3143,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 3467,
+                "name": "/System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime"
+            },
+            {
+                "pid": 3566,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 4053,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 4161,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 4820,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 5064,
+                "name": "/System/Applications/System"
+            },
+            {
+                "pid": 5067,
+                "name": "/System/Library/ExtensionKit/Extensions/AppleIDSettings.appex/Contents/MacOS/AppleIDSettings"
+            },
+            {
+                "pid": 5069,
+                "name": "/System/Library/ExtensionKit/Extensions/PowerPreferences.appex/Contents/MacOS/PowerPreferences"
+            },
+            {
+                "pid": 5074,
+                "name": "/System/Library/ExtensionKit/Extensions/FamilySettings.appex/Contents/MacOS/FamilySettings"
+            },
+            {
+                "pid": 5075,
+                "name": "/System/Library/ExtensionKit/Extensions/FollowUpSettingsExtension.appex/Contents/MacOS/FollowUpSettingsExtension"
+            },
+            {
+                "pid": 5076,
+                "name": "/System/Library/ExtensionKit/Extensions/VPN.appex/Contents/MacOS/VPN"
+            },
+            {
+                "pid": 5077,
+                "name": "/System/Library/ExtensionKit/Extensions/HeadphoneSettingsExtension.appex/Contents/MacOS/HeadphoneSettingsExtension"
+            },
+            {
+                "pid": 5078,
+                "name": "/System/Library/ExtensionKit/Extensions/ClassroomSettings.appex/Contents/MacOS/ClassroomSettings"
+            },
+            {
+                "pid": 5080,
+                "name": "/usr/libexec/studentd"
+            },
+            {
+                "pid": 5153,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 5255,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 5392,
+                "name": "/System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent"
+            },
+            {
+                "pid": 5838,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 5919,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 6079,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 6554,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 6588,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 7126,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 7245,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 7435,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 7773,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 8179,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 8527,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 8611,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 8658,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 8879,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 9238,
+                "name": "/usr/libexec/diskimagesiod"
+            },
+            {
+                "pid": 9602,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 10133,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 10160,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 10675,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 10700,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 10741,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 10876,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 11121,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 11693,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 11717,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 11933,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 11935,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 12338,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 12397,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 12799,
+                "name": "/usr/libexec/diskimagesiod"
+            },
+            {
+                "pid": 12859,
+                "name": "/System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter"
+            },
+            {
+                "pid": 12875,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite"
+            },
+            {
+                "pid": 13032,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 13323,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 13443,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 13490,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 13655,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 14021,
+                "name": "/System/Library/CoreServices/Setup"
+            },
+            {
+                "pid": 14037,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 14098,
+                "name": "/usr/libexec/logd_reporter"
+            },
+            {
+                "pid": 14127,
+                "name": "/usr/sbin/distnoted"
+            },
+            {
+                "pid": 14436,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 14575,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 14897,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 15064,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 15133,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 15138,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 15194,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 15298,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 15509,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 15634,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 16120,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 17260,
+                "name": "/System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight"
+            },
+            {
+                "pid": 17494,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 17716,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 17881,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 18177,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 18702,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 18869,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 19179,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 19460,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 19685,
+                "name": "/Applications/Numbers.app/Contents/MacOS/Numbers"
+            },
+            {
+                "pid": 19758,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 19893,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 19929,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 20147,
+                "name": "/System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd"
+            },
+            {
+                "pid": 20296,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 20433,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 20601,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 20742,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 21217,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 21617,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 22106,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 22109,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 22355,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 22896,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 23384,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 23488,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 23712,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 24002,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 24073,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 24659,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 24668,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 24726,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 24833,
+                "name": "/opt/homebrew/opt/postgresql@14/bin/postgres"
+            },
+            {
+                "pid": 24837,
+                "name": "postgres:"
+            },
+            {
+                "pid": 24838,
+                "name": "postgres:"
+            },
+            {
+                "pid": 24839,
+                "name": "postgres:"
+            },
+            {
+                "pid": 24840,
+                "name": "postgres:"
+            },
+            {
+                "pid": 24841,
+                "name": "postgres:"
+            },
+            {
+                "pid": 24842,
+                "name": "postgres:"
+            },
+            {
+                "pid": 24933,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 24975,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 25006,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 25153,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 25223,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 25382,
+                "name": "/usr/libexec/diskimagesiod"
+            },
+            {
+                "pid": 25411,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 25580,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 25611,
+                "name": "/Library/PrivilegedHelperTools/com.docker.vmnetd"
+            },
+            {
+                "pid": 25679,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 26049,
+                "name": "postgres:"
+            },
+            {
+                "pid": 26526,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 26812,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 26851,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 27037,
+                "name": "/usr/sbin/bluetoothd"
+            },
+            {
+                "pid": 27074,
+                "name": "/usr/sbin/netbiosd"
+            },
+            {
+                "pid": 27476,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 27516,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 27848,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 27865,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 28142,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 28305,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 28519,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 28968,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 29719,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 30019,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 30309,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 30347,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 30379,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 30403,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 30587,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 30680,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 31244,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 31577,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 31689,
+                "name": "/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer"
+            },
+            {
+                "pid": 31690,
+                "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking"
+            },
+            {
+                "pid": 32017,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 32019,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 32313,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 32640,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 33313,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 33393,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 33871,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 33874,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 33989,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 34386,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 34427,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 34523,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 34685,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 34689,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 34691,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 34852,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 34969,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 35360,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 35381,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 35438,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 35600,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 36039,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 36564,
+                "name": "/System/Library/PrivateFrameworks/DiskImages.framework/Resources/diskimages-helper"
+            },
+            {
+                "pid": 36591,
+                "name": "/System/Library/PrivateFrameworks/DiskImages.framework/Resources/hdiejectd"
+            },
+            {
+                "pid": 36667,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 37133,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 37161,
+                "name": "/usr/libexec/diskimagesiod"
+            },
+            {
+                "pid": 37546,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 37600,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 37690,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 37891,
+                "name": "/usr/libexec/taskgated"
+            },
+            {
+                "pid": 37982,
+                "name": "/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService"
+            },
+            {
+                "pid": 38186,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 38559,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 38961,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 38962,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 39151,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 39234,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 39532,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 40186,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 40390,
+                "name": "/usr/libexec/PerfPowerServices"
+            },
+            {
+                "pid": 40686,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 40842,
+                "name": "/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd"
+            },
+            {
+                "pid": 40945,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 40979,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 41124,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 41406,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 41779,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 41920,
+                "name": "/Library/Internet"
+            },
+            {
+                "pid": 41926,
+                "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+            },
+            {
+                "pid": 41933,
+                "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking"
+            },
+            {
+                "pid": 41936,
+                "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU"
+            },
+            {
+                "pid": 42173,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 42215,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 42345,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 43001,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 43016,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 43105,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 43263,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 43582,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 43716,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 43744,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 44444,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 44448,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 44461,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 44684,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 44700,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 45243,
+                "name": "/Applications/Postman.app/Contents/Frameworks/Postman"
+            },
+            {
+                "pid": 45268,
+                "name": "/Applications/Postman.app/Contents/Frameworks/Postman"
+            },
+            {
+                "pid": 45271,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 45298,
+                "name": "/Applications/Postman.app/Contents/Frameworks/Squirrel.framework/Resources/ShipIt"
+            },
+            {
+                "pid": 46123,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 46749,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 47002,
+                "name": "/System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd"
+            },
+            {
+                "pid": 47204,
+                "name": "/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid"
+            },
+            {
+                "pid": 47233,
+                "name": "/System/Library/PrivateFrameworks/PassKitCore.framework/passd"
+            },
+            {
+                "pid": 47245,
+                "name": "/System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service"
+            },
+            {
+                "pid": 47405,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 47455,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 47636,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 47906,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 47912,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 48091,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 48124,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 48215,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 48232,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 48258,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 48665,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 48935,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 48977,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 49150,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 49882,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 50680,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 51152,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 51865,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 52071,
+                "name": "/System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd"
+            },
+            {
+                "pid": 52078,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 52366,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 52457,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 52567,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 52793,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 52805,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 53089,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 53435,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 53523,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 54201,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 54283,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 54424,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 54500,
+                "name": "/System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd"
+            },
+            {
+                "pid": 54602,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 54603,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 54621,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 55111,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 55663,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 55821,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 55922,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 55978,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 56555,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 56686,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 57116,
+                "name": "/usr/libexec/secd"
+            },
+            {
+                "pid": 57217,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 57534,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 57797,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 58072,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 58093,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 58226,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 58255,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 58256,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 58259,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 58354,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 58357,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 58467,
+                "name": "/System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell"
+            },
+            {
+                "pid": 58745,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 58781,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 60100,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 60343,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 60369,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 60370,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 60371,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 60662,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 60688,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 61305,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 61368,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 61396,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 61605,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 62044,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 62159,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 62199,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 62278,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 62309,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 62529,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 62552,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 62714,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 62761,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 62782,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 62925,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 63041,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 63198,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 63216,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 63308,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 63343,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 63344,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 63345,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 63375,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 63848,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 63887,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 63936,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 64185,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 64342,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 64553,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 64735,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 64739,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 65561,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 65926,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 66143,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 66218,
+                "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent"
+            },
+            {
+                "pid": 66223,
+                "name": "/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU"
+            },
+            {
+                "pid": 66255,
+                "name": "/System/Applications/Notes.app/Contents/MacOS/Notes"
+            },
+            {
+                "pid": 66480,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 67380,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 67479,
+                "name": "/usr/libexec/gamecontrollerd"
+            },
+            {
+                "pid": 67481,
+                "name": "/usr/libexec/gamecontrolleragentd"
+            },
+            {
+                "pid": 67659,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 67782,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 68705,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 68838,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 68984,
+                "name": "/Applications/Postman.app/Contents/MacOS/Postman"
+            },
+            {
+                "pid": 68990,
+                "name": "/Applications/Postman.app/Contents/Frameworks/Electron"
+            },
+            {
+                "pid": 68991,
+                "name": "/Applications/Postman.app/Contents/Frameworks/Postman"
+            },
+            {
+                "pid": 68994,
+                "name": "/Applications/Postman.app/Contents/Frameworks/Postman"
+            },
+            {
+                "pid": 69373,
+                "name": "/System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal"
+            },
+            {
+                "pid": 69416,
+                "name": "/Applications/iTerm.app/Contents/MacOS/iTerm2"
+            },
+            {
+                "pid": 69426,
+                "name": "/Users/federicoziro/Library/Application"
+            },
+            {
+                "pid": 69459,
+                "name": "/usr/bin/ssh-agent"
+            },
+            {
+                "pid": 69815,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 69986,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 69989,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 70075,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 70119,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 70195,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 70202,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 70453,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 70501,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 70720,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 70729,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 70881,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 71237,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 71376,
+                "name": "/Applications/FortiClient.app/Contents/Resources/runtime.helper/FortiClientAgent.app/Contents/MacOS/FortiClientAgent"
+            },
+            {
+                "pid": 71388,
+                "name": "/Applications/FortiClient.app/Contents/Resources/runtime.helper/FortiClientAgent.app/Contents/Resources/runtime.helper/FctMiscAgent.app/Contents/MacOS/FctMiscAgent"
+            },
+            {
+                "pid": 71390,
+                "name": "/Applications/FortiClient.app/Contents/Resources/runtime.helper/FortiTray.app/Contents/MacOS/FortiTray"
+            },
+            {
+                "pid": 71392,
+                "name": "/Library/PrivilegedHelperTools/com.fortinet.forticlient.macos.PrivilegedHelper"
+            },
+            {
+                "pid": 71655,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 72098,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 72100,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 72229,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 72490,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 72721,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 73054,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 73233,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 73616,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 73874,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73886,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73892,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73893,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73899,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73900,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73902,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73903,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73919,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73922,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73923,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73924,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73925,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73927,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73928,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 73929,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73930,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73932,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73933,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73961,
+                "name": "/Users/federicoziro/.vscode/extensions/ms-python.python-2024.16.1-darwin-arm64/python-env-tools/bin/pet"
+            },
+            {
+                "pid": 73963,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73964,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 73983,
+                "name": "/Users/federicoziro/.vscode/extensions/ms-python.python-2024.16.1-darwin-arm64/python-env-tools/bin/pet"
+            },
+            {
+                "pid": 74022,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 74413,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 74435,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 74497,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 74515,
+                "name": "/Users/federicoziro/.vscode/extensions/ms-python.python-2024.16.1-darwin-arm64/python-env-tools/bin/pet"
+            },
+            {
+                "pid": 74594,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 74623,
+                "name": "/Users/federicoziro/.vscode/extensions/ms-python.python-2024.16.1-darwin-arm64/python-env-tools/bin/pet"
+            },
+            {
+                "pid": 74627,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 75161,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 75164,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 75165,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 75245,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 75387,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 75438,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 75450,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 75566,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 75575,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 75576,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 75577,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 75963,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 76227,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 76404,
+                "name": "/System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent"
+            },
+            {
+                "pid": 76490,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 76948,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 77102,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 77355,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 77362,
+                "name": "/usr/libexec/aned"
+            },
+            {
+                "pid": 77454,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 78010,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 78083,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 78147,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 78266,
+                "name": "/System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper"
+            },
+            {
+                "pid": 78804,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 79207,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 79594,
+                "name": "/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdsync"
+            },
+            {
+                "pid": 79746,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 79941,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 80001,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 80031,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 80152,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 80200,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 80668,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 80722,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 80749,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 80783,
+                "name": "ssh-agent"
+            },
+            {
+                "pid": 80867,
+                "name": "/System/Applications/TextEdit.app/Contents/MacOS/TextEdit"
+            },
+            {
+                "pid": 81054,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 81270,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 81813,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 81840,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 82146,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 82561,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 82746,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 82923,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 83061,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 83064,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 83068,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 83111,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 83189,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 83302,
+                "name": "/usr/libexec/warmd"
+            },
+            {
+                "pid": 83380,
+                "name": "/usr/libexec/diskimagesiod"
+            },
+            {
+                "pid": 83516,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 83562,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 83573,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 83627,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 83670,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 83701,
+                "name": "/usr/sbin/coreaudiod"
+            },
+            {
+                "pid": 83718,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 84027,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 84030,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 84043,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 84154,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 84172,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 84271,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 84398,
+                "name": "/Users/federicoziro/Applications/Chrome"
+            },
+            {
+                "pid": 84401,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 84523,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 84758,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 84760,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 84761,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 84777,
+                "name": "/Users/federicoziro/.vscode/extensions/ms-python.python-2024.18.0-darwin-arm64/python-env-tools/bin/pet"
+            },
+            {
+                "pid": 84821,
+                "name": "/Applications/Cortex"
+            },
+            {
+                "pid": 84825,
+                "name": "/Library/Application"
+            },
+            {
+                "pid": 84829,
+                "name": "/Library/Application"
+            },
+            {
+                "pid": 84835,
+                "name": "/Library/Application"
+            },
+            {
+                "pid": 84836,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 84839,
+                "name": "/Library/Application"
+            },
+            {
+                "pid": 84841,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 84864,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 84941,
+                "name": "/System/Library/CoreServices/sharedfilelistd"
+            },
+            {
+                "pid": 84946,
+                "name": "/Library/SystemExtensions/EB35C936-4B45-4BD8-94A2-572D86E28308/com.paloaltonetworks.traps.securityextension.systemextension/Contents/MacOS/com.paloaltonetworks.traps.securityextension"
+            },
+            {
+                "pid": 84960,
+                "name": "/Library/SystemExtensions/590B20C6-D9DC-417A-AE37-B3F060546638/com.paloaltonetworks.traps.networkextension.systemextension/Contents/MacOS/com.paloaltonetworks.traps.networkextension"
+            },
+            {
+                "pid": 85072,
+                "name": "/usr/libexec/diagnosticd"
+            },
+            {
+                "pid": 85220,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 85560,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 85706,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 85798,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 85831,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 85920,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 86012,
+                "name": "/System/Applications/Calendar.app/Contents/MacOS/Calendar"
+            },
+            {
+                "pid": 86117,
+                "name": "/Library/Application"
+            },
+            {
+                "pid": 86127,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 86211,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 86567,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 86685,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 86796,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 86850,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 87355,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 87367,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 87566,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 87983,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 88034,
+                "name": "/Applications/Visual"
+            },
+            {
+                "pid": 88332,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 89322,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 89573,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 89789,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 90049,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 90150,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 90500,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 90718,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 91380,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 91477,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 91574,
+                "name": "/usr/libexec/containermanagerd"
+            },
+            {
+                "pid": 91670,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 91884,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 92006,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 92347,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 92363,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 92523,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 92665,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 92685,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 92750,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 92759,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 92903,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 93031,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 93328,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 93454,
+                "name": "/Applications/PyCharm.app/Contents/MacOS/pycharm"
+            },
+            {
+                "pid": 93482,
+                "name": "/Applications/PyCharm.app/Contents/bin/fsnotifier"
+            },
+            {
+                "pid": 93676,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 94426,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 95029,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 95151,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 95269,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 95278,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 95314,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 95359,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 95545,
+                "name": "/System/Library/PrivateFrameworks/TCC.framework/Support/tccd"
+            },
+            {
+                "pid": 95961,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 96650,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 96920,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 97249,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 97255,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 97333,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 97338,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 97349,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 97904,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 98046,
+                "name": "/System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed"
+            },
+            {
+                "pid": 98047,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 98211,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 98776,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 98906,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 98907,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 98941,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 99124,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 99135,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 99219,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 99247,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 99307,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 99437,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 99446,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 99447,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 99490,
+                "name": "/System/Applications/Calculator.app/Contents/MacOS/Calculator"
+            },
+            {
+                "pid": 99584,
+                "name": "/usr/libexec/trustd"
+            },
+            {
+                "pid": 99601,
+                "name": "/usr/libexec/trustd"
+            },
+            {
+                "pid": 99631,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 99819,
+                "name": "<defunct>"
+            },
+            {
+                "pid": 99904,
+                "name": "/Applications/Google"
+            },
+            {
+                "pid": 73940,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 26046,
+                "name": "psql"
+            },
+            {
+                "pid": 69377,
+                "name": "login"
+            },
+            {
+                "pid": 69381,
+                "name": "-zsh"
+            },
+            {
+                "pid": 69427,
+                "name": "/usr/bin/login"
+            },
+            {
+                "pid": 69429,
+                "name": "-zsh"
+            },
+            {
+                "pid": 73941,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 1194,
+                "name": "python3"
+            },
+            {
+                "pid": 1267,
+                "name": "ps"
+            },
+            {
+                "pid": 93489,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 73946,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 73949,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 73951,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 73968,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 84762,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 74000,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 74567,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 74642,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 74926,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 75168,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 75176,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 75180,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 75441,
+                "name": "/bin/zsh"
+            },
+            {
+                "pid": 84782,
+                "name": "/bin/zsh"
+            }
+        ],
+        "users": [
+            {
+                "name": "federicoziro",
+                "terminal": "console",
+                "login_time": "Aug 2 11:04"
+            },
+            {
+                "name": "federicoziro",
+                "terminal": "ttys002",
+                "login_time": "Aug 6 21:22"
+            },
+            {
+                "name": "federicoziro",
+                "terminal": "ttys003",
+                "login_time": "Aug 6 21:22"
+            }
+        ]
+    },
+    "processor": {
+        "name": "arm",
+        "machdep.cpu.cores_per_package": "10",
+        "machdep.cpu.core_count": "10",
+        "machdep.cpu.logical_per_package": "10",
+        "machdep.cpu.thread_count": "10",
+        "machdep.cpu.brand_string": "Apple M1 Pro"
+    },
+    "timestamp": "2024-11-06"
+}
