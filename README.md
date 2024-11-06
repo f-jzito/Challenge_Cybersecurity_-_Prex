@@ -1,13 +1,45 @@
 ## Challenge_Cybersecurity_-_Prex
 
-Este proyecto consiste en una aplicación que recolecta información del sistema y la envía a una API para su almacenamiento y consulta.
+Contexto
+En Prex, el equipo de Information Security avanza con la creación de automatismos que le
+permitan escalar en las operaciones de expansión de la compañía de manera segura. Con ese
+objeto, busca homogeneizar procesos de recolección de información de instancias Cloud
+soportando las multiplataformas de servicios. Por otro lado, es menester almacenar y
+resguardarla de forma tal que permita consultas rápidas.
+Objetivo
+Solicitamos la creación de un agente y una pequeña aplicación de procesamiento de
+información, utilizando el lenguaje que más cómodo considere, teniendo en cuenta que
+pueda ejecutarse en entornos Windows como Linux.
 
-### Funcionalidades
+Agente:
+
+Generar un pequeño programa que permita la recolección de la siguiente información del
+sistema operativo de donde se ejecuta, y posteriormente la envíe a un API de recolección.
+
+* Información sobre el procesador.
+* Listado de procesos corriendo.
+* Usuarios con una sesión abierta en el sistema.
+* Nombre del sistema operativo.
+* Versión del sistema operativo.
+
+API:
+
+Este segundo programa (API) debe consistir en una aplicación con un endpoint que
+permita al agente enviar la información relevada, para que luego, sea almacenada en
+un .csv con el formato:
+<IP de servidor>_<AAAA-MM-DD>.csv
+
+Y otro endpoint que permita la consulta de información enviando una IP como
+parámetro.
+
+
+### Proyecto y Funcionalidades.
 
 
 ### Buenas Practicas de la APP.
 
 * Estructura de un proyecto base (API REST)
+* Se implemento una db PostgreSQL en vez de un json o csv.
 * Implementación de controllers, service, storage y adapters usando buenas prácticas
 * Implementación de buenas prácticas de desarrollo: manejo de errores, dataclasses, logs, etc.
 * Utiliza Bearer Token en los endpoint el token esta en el .env , menos en el del healtcheck.
