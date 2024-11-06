@@ -7,6 +7,6 @@ from app.repositories.storage import dbinit
 if __name__ == '__main__':
     dbinit()
     scheduler = BackgroundScheduler()
-    scheduler.add_job(Agent().collect_and_send_system_info, 'interval', seconds=20)
+    scheduler.add_job(Agent().collect_and_send_system_info, 'interval', hours=24)
     scheduler.start()
     app.run(debug=False, host='0.0.0.0', port=8080)
