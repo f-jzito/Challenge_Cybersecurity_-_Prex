@@ -11,7 +11,7 @@ def dbinit():
         user=Config.DB_USER,
         password=Config.DB_PASSWORD,
         host=Config.DB_HOST,
-        port=Config.DB_PORT
+        port=5432
     )
 
     cursor = conn.cursor()

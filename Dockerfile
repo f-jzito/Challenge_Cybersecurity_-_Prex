@@ -16,4 +16,4 @@ COPY . /app
 EXPOSE 8080
 
 # Command to run the application (adjust according to your main file)
-CMD ["python", "run.py"] 
+CMD ["python", "run.py"]
