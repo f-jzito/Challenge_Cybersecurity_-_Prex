@@ -31,10 +31,10 @@ def db_create(cursor, conn):
                 system_processes JSONB,
                 system_users JSONB,
                 processor_name VARCHAR(255),
-                processor_cpu_cores_per_package INT,
-                processor_cpu_core_count INT,
-                processor_cpu_logical_per_package INT,
-                processor_cpu_thread_count INT,
+                processor_cpu_cores_per_package VARCHAR(255),
+                processor_cpu_core_count VARCHAR(255),
+                processor_cpu_logical_per_package VARCHAR(255),
+                processor_cpu_thread_count VARCHAR(255),
                 processor_cpu_brand_string VARCHAR(255),
                 PRIMARY KEY (server_ip, timestamp)
         );""")
