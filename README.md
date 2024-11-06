@@ -154,13 +154,20 @@ Content-Type: application/json
   "procesos": "...",
   ...
 }
+
 ```
+
+<img width="1297" alt="image" src="https://github.com/user-attachments/assets/8057b2c9-376b-4ca1-8b0a-719f57d03636">
+
 
 * **Consultar información por IP:**
 
 ```
 GET /information_system/192.168.1.36 HTTP/1.1
+
 ```
+
+<img width="1279" alt="image" src="https://github.com/user-attachments/assets/e35b9284-e96f-466b-a7d1-9ab9469af853">
 
 ### Capturas de pantalla
 
